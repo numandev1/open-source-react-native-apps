@@ -1,0 +1,169 @@
+{
+  "categories": [
+    {
+      "title": "OpenAi",
+      "id": "openAi",
+      "description": ""
+    },
+    {
+      "title": "AI (Artificial Intelligence)",
+      "id": "ai",
+      "description": ""
+    },
+    {
+      "title": "Machine Learning",
+      "id": "machinelearning",
+      "description": ""
+    },
+    {
+      "title": "Finance",
+      "id": "finance",
+      "description": ""
+    },
+    {
+      "title": "Chat",
+      "id": "chat",
+      "description": ""
+    },
+    {
+      "title": "House & Home",
+      "id": "house_home",
+      "description": ""
+    },
+    {
+      "title": "productivity",
+      "id": "productivity",
+      "description": ""
+    },
+    {
+      "title": "Comics",
+      "id": "comics",
+      "description": ""
+    },
+    {
+      "title": "Tools",
+      "id": "tool",
+      "description": ""
+    },
+    {
+      "title": "Cryptocurrency",
+      "id": "cryptocurrency",
+      "description": ""
+    },
+    {
+      "title": "Social",
+      "id": "social",
+      "description": ""
+    },
+    {
+      "title": "Web3",
+      "id": "web3",
+      "description": ""
+    },
+    {
+      "title": "Other",
+      "id": "other",
+      "description": ""
+    },
+    {
+      "title": "Events",
+      "id": "events",
+      "description": ""
+    },
+    {
+      "title": "Lifestyle",
+      "id": "lifestyle",
+      "description": ""
+    },
+    {
+      "title": "Health & Fitness",
+      "id": "health_and_fitness",
+      "description": ""
+    },
+    {
+      "title": "Travel",
+      "id": "travel",
+      "description": ""
+    },
+    {
+      "title": "Shopping",
+      "id": "shopping",
+      "description": ""
+    },
+    {
+      "title": "News",
+      "id": "news",
+      "description": ""
+    },
+    {
+      "title": "Food & Drink",
+      "id": "food_and_drink",
+      "description": ""
+    },
+    {
+      "title": "Game",
+      "id": "game",
+      "description": ""
+    },
+    {
+      "title": "Graphics & Design",
+      "id": "graphics_and_design",
+      "description": ""
+    },
+    {
+      "title": "Data Visualization",
+      "id": "data_visualization",
+      "description": ""
+    },
+    {
+      "title": "Map & Navigation",
+      "id": "map_and_navigation",
+      "description": ""
+    },
+    {
+      "title": "Book & Reference",
+      "id": "book_and_reference",
+      "description": ""
+    },
+    {
+      "title": "Music & Audio",
+      "id": "music_and_audio",
+      "description": ""
+    },
+    {
+      "title": "Augmented Reality",
+      "id": "augmented_reality",
+      "description": ""
+    },
+    {
+      "title": "Entertainment",
+      "id": "entertainment",
+      "description": ""
+    },
+    {
+      "title": "Browser",
+      "id": "browser",
+      "description": ""
+    },
+    {
+      "title": "Libraries & Demo",
+      "id": "libraries_and_demo",
+      "description": ""
+    },
+    {
+      "title": "Adventure",
+      "id": "adventure",
+      "description": ""
+    },
+    {
+      "title": "Personalization",
+      "id": "personalization",
+      "description": ""
+    },
+    {
+      "title": "Supports",
+      "id": "supports",
+      "description": ""
+    }
+  ]
+}

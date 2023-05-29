@@ -1,0 +1,72 @@
+[
+  {
+    "Title": "[Context API Demo](https://github.com/ToJen/react_native_context_demo)",
+    "Description": "A simple app showing how Context API can be used in React Native by authenticating users. [Expo](https://expo.io/tools) and [React Navigation](https://reactnavigation.org/) were used for this. This is great for hackathons or quick projects!",
+    "RN_Version": "![Expo version](https://img.shields.io/github/package-json/dependency-version/ToJen/react_native_context_demo/expo?label=expo)",
+    "LastCommit": "![GitHub LastCommit](https://img.shields.io/github/last-commit/ToJen/react_native_context_demo?label=%20)",
+    "GithubStars": "![GithubStars](https://img.shields.io/github/stars/ToJen/react_native_context_demo)"
+  },
+  {
+    "Title": "[React Native boilerplate](https://github.com/sanjeevyadavIT/react-native-boilerplate)",
+    "Description": "A Robust React Native boilerplate to kickstart your new app , implements react navigation, redux, redux-saga and storybook.",
+    "RN_Version": "![RN_Version](https://img.shields.io/github/package-json/dependency-version/sanjeevyadavIT/react-native-boilerplate/react-native?label=%20)",
+    "LastCommit": "![GitHub LastCommit](https://img.shields.io/github/last-commit/sanjeevyadavIT/react-native-boilerplate?label=%20)",
+    "GithubStars": "![GithubStars](https://img.shields.io/github/stars/sanjeevyadavIT/react-native-boilerplate)"
+  },
+  {
+    "Title": "[React Native boileplate](https://github.com/tawachan/react-native-expo-boilerplate)",
+    "Description": "A boilerplate to develop a mobile app with React Native and Expo using TypeScript and Redux (Redux Saga).",
+    "RN_Version": "![Expo version](https://img.shields.io/github/package-json/dependency-version/tawachan/react-native-expo-boilerplate/expo?label=expo)",
+    "LastCommit": "![GitHub LastCommit](https://img.shields.io/github/last-commit/tawachan/react-native-expo-boilerplate?label=%20)",
+    "GithubStars": "![GithubStars](https://img.shields.io/github/stars/tawachan/react-native-expo-boilerplate)"
+  },
+  {
+    "Title": "[React Native Template](https://github.com/osamaq/react-native-template)",
+    "Description": "A minimal template with architecture and common packages to let you focus on writing features right away.",
+    "RN_Version": "![RN_Version](https://img.shields.io/github/package-json/dependency-version/osamaq/react-native-template/react-native?label=%20&filename=template%2Fpackage.json)",
+    "LastCommit": "![GitHub LastCommit](https://img.shields.io/github/last-commit/osamaq/react-native-template?label=%20)",
+    "GithubStars": "![GithubStars](https://img.shields.io/github/stars/osamaq/react-native-template)"
+  },
+  {
+    "Title": "[MyApp](https://github.com/proyecto26/MyApp)",
+    "Description": "A template for React Native apps (State management agnostic).",
+    "RN_Version": "![RN_Version](https://img.shields.io/github/package-json/dependency-version/proyecto26/MyApp/react-native?label=%20&filename=package.json)",
+    "LastCommit": "![GitHub LastCommit](https://img.shields.io/github/last-commit/proyecto26/MyApp?label=%20)",
+    "GithubStars": "![GithubStars](https://img.shields.io/github/stars/proyecto26/MyApp)"
+  },
+  {
+    "Title": "[React Native Boilerplate](https://github.com/thecodingmachine/react-native-boilerplate)",
+    "Description": "The boilerplate provides an optimized architecture for building solid cross-platform mobile applications through separation of concerns between the UI and business logic.",
+    "RN_Version": "![RN_Version](https://img.shields.io/github/package-json/dependency-version/thecodingmachine/react-native-boilerplate/react-native?label=%20&filename=template/package.json)",
+    "LastCommit": "![GitHub LastCommit](https://img.shields.io/github/last-commit/thecodingmachine/react-native-boilerplate?label=%20)",
+    "GithubStars": "![GithubStars](https://img.shields.io/github/stars/thecodingmachine/react-native-boilerplate)"
+  },
+  {
+    "Title": "[React Native UI Templates](https://github.com/Aashu-Dubey/React-Native-UI-Templates)",
+    "Description": "React-Native project inspired from [this](https://github.com/mitesh77/Best-Flutter-UI-Templates) amazing Flutter project.",
+    "RN_Version": "![RN_Version](https://img.shields.io/github/package-json/dependency-version/Aashu-Dubey/React-Native-UI-Templates/react-native?label=%20&filename=react_native_UI_Templates/package.json)",
+    "LastCommit": "![GitHub LastCommit](https://img.shields.io/github/last-commit/Aashu-Dubey/React-Native-UI-Templates?label=%20)",
+    "GithubStars": "![GithubStars](https://img.shields.io/github/stars/Aashu-Dubey/React-Native-UI-Templates)"
+  },
+  {
+    "Title": "[React Native (Redux/JSToolkit) Starter App](https://github.com/IronTony/react-native-redux-toolkit-starter-app)",
+    "Description": "📱🚀A POWERFUL React Native starter kit to bootstrap the start of your mobile app development",
+    "RN_Version": "![RN_Version](https://img.shields.io/github/package-json/dependency-version/IronTony/react-native-redux-toolkit-starter-app/react-native?label=%20&filename=package.json)",
+    "LastCommit": "![GitHub LastCommit](https://img.shields.io/github/last-commit/IronTony/react-native-redux-toolkit-starter-app?label=%20)",
+    "GithubStars": "![GithubStars](https://img.shields.io/github/stars/IronTony/react-native-redux-toolkit-starter-app)"
+  },
+  {
+    "Title": "[React Native (React-Query) Starter App](https://github.com/IronTony/react-native-react-query-starter-app)",
+    "Description": "📱🚀A React Native boilerplate app to bootstrap your next app with React-Query!",
+    "RN_Version": "![RN_Version](https://img.shields.io/github/package-json/dependency-version/IronTony/react-native-react-query-starter-app/react-native?label=%20&filename=package.json)",
+    "LastCommit": "![GitHub LastCommit](https://img.shields.io/github/last-commit/IronTony/react-native-react-query-starter-app?label=%20)",
+    "GithubStars": "![GithubStars](https://img.shields.io/github/stars/IronTony/react-native-react-query-starter-app)"
+  },
+  {
+    "Title": "[React Native Psychology App](https://github.com/sssajjad007/react-native-psychology-app)",
+    "Description": "📱🚀A React Native app to bootstrap your next app with React Navigation, Mobx, Mmkv!",
+    "RN_Version": "![RN_Version](https://img.shields.io/github/package-json/dependency-version/sssajjad007/react-native-psychology-app/react-native)",
+    "LastCommit": "![GitHub LastCommit](https://img.shields.io/github/last-commit/sssajjad007/react-native-psychology-app?label=%20)",
+    "GithubStars": "![GithubStars](https://img.shields.io/github/stars/sssajjad007/react-native-psychology-app)"
+  }
+]
