@@ -2364,6 +2364,19 @@
       "ios": "",
       "version": "![React Native version](https://img.shields.io/github/package-json/dependency-version/marcoXbresciani/TKCompanionApp/react-native?label=%20)",
       "web": "https://f-droid.org/en/packages/name.bresciani.marco.tkcompanionapp/"
+    },
+    {
+      "title": "Premier League Football",
+      "short_description": "React Native Premier League Football App ⚽ 👟🏆🏅",
+      "screenshots": [],
+      "categories": ["supports"],
+      "icon_url": "",
+      "languages": ["javascript", "typescript"],
+      "repo_url": "https://github.com/Pau1fitz/react-native-football",
+      "android": "",
+      "ios": "",
+      "version": "![React Native version](https://img.shields.io/github/package-json/dependency-version/Pau1fitz/react-native-football/react-native?label=%20)",
+      "web": ""
     }
   ]
 }
