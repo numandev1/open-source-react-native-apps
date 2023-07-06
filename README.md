@@ -640,6 +640,9 @@ List of awesome open source mobile applications in React Nativve. This list cont
 - [F1 Stats](https://github.com/srdjanprpa/FormulaOne) - F1 Stats for statistics drivers and teams, calendar of race and results. <br/> **Languages**: Javascript,Typescript<br/>**Version**:![React Native version](https://img.shields.io/github/package-json/dependency-version/srdjanprpa/FormulaOne/react-native?label=%20)<br/>
   
   
+- [Premier League Football](https://github.com/Pau1fitz/react-native-football) - React Native Premier League Football App ⚽ 👟🏆🏅 <br/> **Languages**: Javascript,Typescript<br/>**Version**:![React Native version](https://img.shields.io/github/package-json/dependency-version/Pau1fitz/react-native-football/react-native?label=%20)<br/>
+  
+  
 - [React Native NBA App](https://github.com/wwayne/react-native-nba-app) - Cool NBA App written in RN <br/> **Languages**: Javascript,Typescript<br/>**Version**:![React Native version](https://img.shields.io/github/package-json/dependency-version/wwayne/react-native-nba-app/react-native?label=%20)<br/>
   
   
