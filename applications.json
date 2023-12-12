@@ -2377,6 +2377,19 @@
       "ios": "",
       "version": "![React Native version](https://img.shields.io/github/package-json/dependency-version/Pau1fitz/react-native-football/react-native?label=%20)",
       "web": ""
+    },
+    {
+      "title": "Get Ideas",
+      "short_description": "Get more done by getting the right ideas on time.",
+      "screenshots": [],
+      "categories": ["utilities", "productivity", "other"],
+      "icon_url": "",
+      "languages": ["javascript"],
+      "repo_url": "https://github.com/DevVibhor/react-native-get-ideas",
+      "android": "",
+      "ios": "",
+      "version": "![React Native version](https://img.shields.io/github/package-json/dependency-version/DevVibhor/react-native-get-ideas/react-native?label=%20)",
+      "web": ""
     }
   ]
 }
